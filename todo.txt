@@ -1,0 +1,2 @@
+Chat Background => #9BACC0
+Chat Bubble => #ECF3FB
